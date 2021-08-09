@@ -5,8 +5,8 @@ n=("n")
 print(question1)
 
 a=("a")
-b=("10 points to you!")
-c=("")
+b=("b")
+c=("c")
 if (question1==y):
     print("great! first of all you should know that these quizzes should be taken by the heart and not the head!")
     print("And second of all the aim of these quizzes is to choose the one that you would prefer as in...")
